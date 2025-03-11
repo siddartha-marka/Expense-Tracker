@@ -30,4 +30,4 @@ The primary goal of this project is to provide users with a seamless and intuiti
 - Charts & Visualization: Chart.js
 - Styling: Tailwind CSS
 
-This application will be available at https://expensetrackerkits.netlify.app/login
+This application will be available at https://expensetrackerkits.netlify.app/
